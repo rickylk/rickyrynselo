@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Pattamon Rattanapan (陳志嫻)
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🍧
 
 # Organizations/Affiliations
 #organizations:

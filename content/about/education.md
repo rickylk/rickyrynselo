@@ -40,7 +40,9 @@ experience:
     location: Bangkok, Thailand
     date_start: '2012-06-01'
     date_end: '2020-12-31'
-    description: My dissertation was on X
+    description: |2-
+        *
+        * 
 
      - title: Bechelor of Arts, Mass Communication
     company: Ramkhamhaeng University
@@ -49,7 +51,7 @@ experience:
     location: Bangkok, Thailand
     date_start: '2012-06-01'
     date_end: '2020-12-31'
-    description: My dissertation was on X
+    #description: 
 
 design:
   columns: '1'
